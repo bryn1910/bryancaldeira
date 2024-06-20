@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Bryan Caldeira Estou Buscando Oportuniades com DEV ou QA 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/wellington-staff-qa-expert/](https://www.linkedin.com/in/bryan-caldeira-dev/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/wellington-staff-qa-expert/](https://www.linkedin.com/in/bryan-caldeira-dev/)])
 
 
 ![Well GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtondeoliveirasantos&show_icons=true&theme=dracula&count_private=true)
