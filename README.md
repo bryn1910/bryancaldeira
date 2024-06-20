@@ -10,11 +10,11 @@
 #### Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-239120?logo=html5&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
 </div>
 
